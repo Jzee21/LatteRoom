@@ -1,8 +1,8 @@
 # LatteRoom
 
-- [Android Application](https://github.com/lululalah/LatteRoom_Android)
+- [Android Application](https://github.com/Hae-gun/LatteFinalNoShared)
 - [Java Project](https://github.com/Jzee21/LatteRoom_Java)
   - Server
   - IoT Devices
-- [Arduino Code](https://github.com/rhkddl2422/Arduino)
-  - Control the device's sensors
+- [Device Code](https://github.com/Jzee21/LatteRoom_Device)
+  - Devices that control sensors
